@@ -11,5 +11,5 @@ npm install
 
 Y para construir el build:
  ```
-npm ruin build
+npm run build
 ```
